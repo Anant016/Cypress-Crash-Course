@@ -9,6 +9,10 @@
 4. Run single file
    `npx cypress run --spec "cypress/integrations/action.spec.js `"
 
+### What's NPX ?
+
+Without NPX - `node ./node_modules/.bin/mocha`
+
 <hr/>
 
 1. Fixtures
